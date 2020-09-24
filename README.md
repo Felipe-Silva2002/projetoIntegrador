@@ -2,7 +2,7 @@
 Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma Empresa cliente a IACIT para um Projeto Integrador, onde nós alunos tivemos a oportunidade de trabalhar com uma empresa real, com problemas reais, buscar soluções e implantá-las através da metodologia SCRUM.
 
 # -Disciplinas integradas
-Engenharia de Software
+- Engenharia de Software
 Prof. Me. Giuliano Araujo Bertoti
 Sistemas de Informações
 Prof. Me. José Walmir Gonçalves Duque
