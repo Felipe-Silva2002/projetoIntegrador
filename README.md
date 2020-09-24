@@ -26,17 +26,17 @@ Cadastros básicos:
 
  
 
-Cadastro dos dados do motorista:  como o nome completo dele, CPF, matrícula e ID de identificação do equipamento do caminhão 
+- Cadastro dos dados do motorista:  como o nome completo dele, CPF, matrícula e ID de identificação do equipamento do caminhão 
 
-Cadastro dos dados do veículo:  como a placa, marca do rastreador e versão, bem como o ID de identificação de integração da tecnologia de rastreamento instalado no veículo; 
+- Cadastro dos dados do veículo:  como a placa, marca do rastreador e versão, bem como o ID de identificação de integração da tecnologia de rastreamento instalado no veículo; 
 
-Escala dos motoristas: (turno, carga horária diária, dias de trabalho e folga); 
+- Escala dos motoristas: (turno, carga horária diária, dias de trabalho e folga); - 
 
-Criar um cadastro de alertas: Contendo as informações como ocorrência, sigla, ícone, descrição do alerta (nomenclatura da geração do alerta) e regra / parâmetro; 
+- Criar um cadastro de alertas: Contendo as informações como ocorrência, sigla, ícone, descrição do alerta (nomenclatura da geração do alerta) e regra / parâmetro; 
 
-Cadastro de Status: Cadastrar todos os status e regras de negócio de acordo com cada situação ocorrida durante a jornada. 
+- Cadastro de Status: Cadastrar todos os status e regras de negócio de acordo com cada situação ocorrida durante a jornada. 
 
-ID dos macros/ mensagens conforme a tecnologia de rastreamento e associação de eventos de jornada para cada macro/ mensagem (status de início e fim de jornada, tempo de trabalho, tempo de espera, tempo de refeição, tempo de descanso, etc...)  
+- ID dos macros/ mensagens conforme a tecnologia de rastreamento e associação de eventos de jornada para cada macro/ mensagem (status de início e fim de jornada, tempo de trabalho, tempo de espera, tempo de refeição, tempo de descanso, etc...)  
 
  
 
