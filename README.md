@@ -71,7 +71,7 @@ Documentações:
 - Wireframes (Sugestão: Figma). 
 
 # Time
-- Ana - PO
+- Ana oliveira - PO
 - Pedro Sousa Lopes - Scrum Master
 - Felipe Silva - DEV Team
 - Francisco - DEV Team
