@@ -105,6 +105,7 @@ Documentações:
 - Bruno Freire - DEV Team
 - Joao Vitor - DEV Team
 - Leonardo- DEV Team
+- Vitor - DEV Team
 
 # Data das entregas
 
