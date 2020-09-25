@@ -17,11 +17,26 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma Empresa
 - Formulario carga horaria do caminhoneiro
 - Salvar carga horaria do usuario/caminhoneiro
 - Monitoramento do caminhoneiro
+- Dados do automóvel
 
 
 # Obejetivo 
 
 Desenvolver um sistema de gerenciamento de Controle de Jornada de Trabalho de Motoristas de forma parametrizável visando a disponibilização de funcionalidades de planejamento, acompanhamento e controle. Adicionalmente, relatórios analíticos são pontos interessantes de agregação de valor ao projeto.
+
+# Conhecimentos exigidos  (Hard Skills): 
+
+Levantamento de requisitos 
+
+Documentação de software (User Stories, Wireframes) 
+
+Fundamentos de Banco de Dados (Relacional e NoSQL) 
+
+Modelagem de dados (Relacional e NoSQL) 
+
+Linguagem de programação 
+
+Técnicas de apresentação 
 
 
 # Requisitos Funcionais:  
