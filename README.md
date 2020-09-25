@@ -4,8 +4,10 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma Empresa
 # Disciplinas integradas
 - Engenharia de Software
 - Prof. Me. Giuliano Araujo Bertoti
+
 - Sistemas de Informações
 - Prof. Me. José Walmir Gonçalves Duque
+
 - Linguagem de Programação
 - Profª. Ma. Juliana Forin Pasquini Martiniz
 
@@ -14,6 +16,8 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma Empresa
 - Login e cadastro de usuario
 - Formulario carga horaria do caminhoneiro
 - Salvar carga horaria do usuario/caminhoneiro
+- Monitoramento do caminhoneiro
+
 
 # Obejetivo 
 
@@ -69,6 +73,14 @@ Documentações:
 - Manual do usuário, 
 
 - Wireframes (Sugestão: Figma). 
+
+# Sprint Cards
+
+////////////////////////////
+
+# Wireframes
+
+////////////////////////////
 
 # Time
 - Ana oliveira - PO
