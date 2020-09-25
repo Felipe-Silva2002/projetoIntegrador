@@ -11,7 +11,7 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma Empresa
 - Linguagem de Programação
 - Profª. Ma. Juliana Forin Pasquini Martiniz
 
-# BackLOG
+# Backlog
 - Implementaçao da API Hibernate
 - Login e cadastro de usuario
 - Formulario carga horaria do caminhoneiro
