@@ -95,7 +95,7 @@ Documentações:
 
 # Wireframes
 
-![WhatsApp Image 2020-09-26 at 9.53.17 PM]()
+![WhatsApp Image 2020-09-26 at 9.53.17 PM](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/WhatsApp%20Image%202020-09-26%20at%209.53.17%20PM.jpeg)
 
 # Time
 - Ana oliveira - PO
