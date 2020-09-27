@@ -91,7 +91,10 @@ Documentações:
 
 # Sprint Cards
 
-![Untitled (5)](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/Untitled%20(5).pdf)
+!image--000.jpg[](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/image--000.jpg)
+![image--001.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/image--001.jpg)
+![image--002.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/image--002.jpg)
+![image--003.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/image--003.jpg)
 
 # Wireframes
 
