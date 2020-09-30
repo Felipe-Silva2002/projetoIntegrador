@@ -89,6 +89,12 @@ Documentações:
 
 - Wireframes (Sugestão: Figma). 
 
+# Benefícios
+- Segurança e facilidade de gerenciamento de grande quantidade de funcionários.
+- Facilidade do caminhoneiro marcar seu período de trabalho.
+- Facilidade do administrador se e analisar os dados de seus funcionários.
+
+
 # Sprint Cards
 
 ![image--000.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/image--000.jpg)
