@@ -20,7 +20,7 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma Empresa
 - Dados do automóvel
 
 
-# Obejetivo 
+# Objetivo 
 
 Desenvolver um sistema de gerenciamento de Controle de Jornada de Trabalho de Motoristas de forma parametrizável visando a disponibilização de funcionalidades de planejamento, acompanhamento e controle. Adicionalmente, relatórios analíticos são pontos interessantes de agregação de valor ao projeto.
 
