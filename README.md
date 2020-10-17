@@ -1,5 +1,5 @@
 # Projeto Integrador - Fatec São José dos Campos
-Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma Empresa cliente a IACIT para um Projeto Integrador, onde nós alunos tivemos a oportunidade de trabalhar com uma empresa real, com problemas reais, buscar soluções e implantá-las através da metodologia SCRUM.
+Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com a Empresa IACIT no projeto integrador, onde nós alunos tivemos a oportunidade de trabalhar com uma empresa real, com problemas reais, buscando desenvolver soluções através da metodologia SCRUM.
 
 # Disciplinas integradas
 - Engenharia de Software
@@ -22,7 +22,7 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com uma Empresa
 
 # Objetivo 
 
-Desenvolver um sistema de gerenciamento de Controle de Jornada de Trabalho de Motoristas de forma parametrizável visando a disponibilização de funcionalidades de planejamento, acompanhamento e controle. Adicionalmente, relatórios analíticos são pontos interessantes de agregação de valor ao projeto.
+Desenvolver um sistema de gerenciamento de controle de jornada de trabalho de motoristas de forma parametrizável visando a disponibilização de funcionalidades de planejamento, acompanhamento e controle. Adicionar relatórios analíticos são valores a agregar ao projeto.
 
 # Conhecimentos exigidos  (Hard Skills): 
 
@@ -45,17 +45,17 @@ Cadastros básicos:
 
  
 
-- Cadastro dos dados do motorista:  como o nome completo dele, CPF, matrícula e ID de identificação do equipamento do caminhão 
+- Cadastro de dados do motorista:  como o nome completo, CPF, matrícula e ID de identificação do equipamento do caminhão 
 
-- Cadastro dos dados do veículo:  como a placa, marca do rastreador e versão, bem como o ID de identificação de integração da tecnologia de rastreamento instalado no veículo; 
+- Cadastro de dados do veículo:  como a placa, marca do rastreador e versão, bem como o ID de identificação de integração da tecnologia de rastreamento instalado no veículo; 
 
-- Escala dos motoristas: (turno, carga horária diária, dias de trabalho e folga); - 
+- Escala de motoristas: (turno, carga horária diária, dias de trabalho e folga); - 
 
-- Criar um cadastro de alertas: Contendo as informações como ocorrência, sigla, ícone, descrição do alerta (nomenclatura da geração do alerta) e regra / parâmetro; 
+- Criar cadastro de alertas: Contendo as informações como ocorrência, sigla, ícone, descrição do alerta (nomenclatura da geração do alerta) e regra / parâmetro; 
 
-- Cadastro de Status: Cadastrar todos os status e regras de negócio de acordo com cada situação ocorrida durante a jornada. 
+- Cadastro de Status: Cadastrar todos status e regras de negócio de acordo com cada situação ocorrida durante a jornada. 
 
-- ID dos macros/ mensagens conforme a tecnologia de rastreamento e associação de eventos de jornada para cada macro/ mensagem (status de início e fim de jornada, tempo de trabalho, tempo de espera, tempo de refeição, tempo de descanso, etc...)  
+- ID dos macros/ mensagens conforme a tecnologia de rastreamento e associação de eventos de jornada para cada macro/ mensagem (status de início e fim de jornada, tempo de trabalho, tempo de espera, tempo de refeição, tempo de descanso, entre outros)  
 
  
 
@@ -91,8 +91,8 @@ Documentações:
 
 # Benefícios
 - Segurança e facilidade de gerenciamento de grande quantidade de funcionários.
-- Facilidade do caminhoneiro marcar seu período de trabalho.
-- Facilidade do administrador se e analisar os dados de seus funcionários.
+- Facilidade do usuário marcar seu período de trabalho.
+- Facilidade do administrador em analisar os dados de seus funcionários.
 
 
 # Sprint Cards
@@ -123,13 +123,12 @@ Documentações:
 - Francisco - DEV Team
 - Bruno Freire - DEV Team
 - Joao Vitor - DEV Team
-- Leonardo- DEV Team
 - Vitor - DEV Team
 
 # Data das entregas
 
-- Entrega 0  7/set até 27/set
-- Entrega 1  28/set até 18/out
-- Entrega 2  19/out até 8/nov
-- Entrega 3  9/nov até 29/nov
-- Entrega final  6/dez   apresentaçao para o cliente
+- Entrega 0  07/09/2020 até 27/09/2020
+- Entrega 1  28/09/2020 até 18/10/2020
+- Entrega 2  19/10/2020 até 08/11/2020
+- Entrega 3  09/11/2020 até 29/11/2020
+- Entrega final  06/12/2020   apresentaçao para o cliente
