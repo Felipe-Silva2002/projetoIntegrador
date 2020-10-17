@@ -117,12 +117,12 @@ Documentações:
 
 
 # Time
-- Ana oliveira - PO
+- Ana Oliveira - PO
 - Pedro Sousa Lopes - Scrum Master
+- Bruno Freire - DEV Team
 - Felipe Silva - DEV Team
 - Francisco - DEV Team
-- Bruno Freire - DEV Team
-- Joao Vitor - DEV Team
+- Joâo Vitor - DEV Team
 - Vitor - DEV Team
 
 # Data das entregas
