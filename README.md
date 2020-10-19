@@ -16,8 +16,11 @@ Aqui tem em execuçao um crud de usuarios com com login no sistema com todos os 
 ![18.10.2020_08.51.01_REC.gif](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/18.10.2020_08.51.01_REC.gif)
 
 #Crud de veiculos
+
 Aqui nos ja fizemos um crud completo de veiculos onde e cadastro todas os dados necessarios para um veiiculo
 
 ![18.10.2020_08.49.14_REC.gif](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/18.10.2020_08.49.14_REC.gif)
+
+Nessa entrega fizemos todos os dados necessarios para começarmos a aprofundar no desenvolvimento.
 
 
