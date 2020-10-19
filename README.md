@@ -106,9 +106,10 @@ Desenvolveremos UM CRUD de usuario e veículo com login de usuário já cadastra
 
 ![card 2.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%202.JPG)
 
-Desenvolveremos uma criaçao de tarefas feita pelo administrado onde ele escolherá um usuário e um veículo para o local que ele desejar, a
+Desenvolveremos uma criação de tarefas feitas pelo administrador onde ele escolherá um usuário e um veículo para o local que ele desejar, o usuário poderá definir o início e o fim da tarefa, além da visualização da tabela da tarefa
 
 ![card 3.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%203.JPG)
+
 
 ![card 4.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%204.JPG)
 
