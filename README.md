@@ -115,6 +115,8 @@ O administrador terá total acesso sobre os relatórios do usuário e correção
 
 # Wireframes
 
+O wireframe é um protótipo usado em design de interface para sugerir a estrutura de um site web e relacionamentos entre suas páginas. Então é um desenho básico de uma interface. Este desenho, no entanto, deve retratar toda a arquitetura de informação do sistema desejada pelo cliente, assim como também um veículo para propostas de funções, elementos gráficos, estrutura e conteúdo. Deve-se observar também que o wireframe retrata a usabilidade do sistema. No entanto, este desenho deve ser muito simples e resumido, informando ao desenvolvedor apenas o que for estritamente necessário de forma simples.
+
  ## Login Ou Admin
 ![wireframe 1.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%201.png)
 ## Login de Administrador
