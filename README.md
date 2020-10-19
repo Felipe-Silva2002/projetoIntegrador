@@ -99,8 +99,11 @@ Documentações:
 # Sprint Cards
 
 ![card 1.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%201.JPG)
+
 ![card 2.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%202.JPG)
+
 ![card 3.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%203.JPG)
+
 ![card 4.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%204.JPG)
 
 # Wireframes
