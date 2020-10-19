@@ -1,4 +1,4 @@
-# Projeto Integrador - Fatec São José dos Campos
+# Projeto Integrador - Fatec São José dos Ca
 Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com a Empresa IACIT no projeto integrador, onde nós alunos tivemos a oportunidade de trabalhar com uma empresa real, com problemas reais, buscando desenvolver soluções através da metodologia SCRUM.
 
 # Disciplinas integradas
