@@ -147,3 +147,45 @@ O wireframe é um protótipo usado em design de interface para sugerir a estrutu
 - [Branch-3](https://github.com/Felipe-Silva2002/projetoIntegrador/tree/Branch-2)  19/10/2020 até 08/11/2020
 
 - [Branch-4](https://github.com/Felipe-Silva2002/projetoIntegrador/tree/Branch-3)  09/11/2020 até 29/11/2020
+
+# Necessario para funcionamento do código.
+-- Table: public.funcionarios
+
+-- DROP TABLE public.funcionarios;
+
+CREATE TABLE public.funcionarios
+(
+    cod_usuario integer NOT NULL DEFAULT nextval('funcionarios_cod_usuario_seq'::regclass),
+    nome_funcionario character varying COLLATE pg_catalog."default" NOT NULL,
+    senha character varying COLLATE pg_catalog."default" NOT NULL,
+    cpf integer NOT NULL,
+    cnh character varying COLLATE pg_catalog."default" NOT NULL,
+    tipo_funcionario character varying COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT funcionarios_pkey PRIMARY KEY (cod_usuario)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.funcionarios
+    OWNER to postgres;
+    
+    
+    -- Table: public.veiculos
+
+-- DROP TABLE public.veiculos;
+
+CREATE TABLE public.veiculos
+(
+    cod_id integer NOT NULL DEFAULT nextval('veiculos_cod_id_seq'::regclass),
+    marca_veiculo character varying COLLATE pg_catalog."default" NOT NULL,
+    placa character varying COLLATE pg_catalog."default" NOT NULL,
+    ano_veiculo character varying COLLATE pg_catalog."default" NOT NULL,
+    tipo_veiculo character varying COLLATE pg_catalog."default" NOT NULL,
+    numero_chassi character varying COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT veiculos_pkey PRIMARY KEY (cod_id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.veiculos
+    OWNER to postgres;
