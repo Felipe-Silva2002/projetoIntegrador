@@ -98,7 +98,7 @@ Documentações:
 # Sprint Cards
 
 ![card 1.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/image--000.jpg)
-![image--001.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/image--001.jpg)
+![card 2.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%202.JPG)
 ![image--002.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/image--002.jpg)
 ![image--003.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/image--003.jpg)
 
