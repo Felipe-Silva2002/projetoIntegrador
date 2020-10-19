@@ -98,6 +98,7 @@ Documentações:
 
 # Sprint Cards
 
+Fizemos a documentação do github e toda previsão de funcionalidade do projeto, para, com isso teremos maior gerenciamento a problemática estabelecidade pela empresa e maior clareza o futuro do projeto
 ![card 1.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%201.JPG)
 
 ![card 2.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%202.JPG)
