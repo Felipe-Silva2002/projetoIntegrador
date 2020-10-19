@@ -101,8 +101,6 @@ Documentações:
 ![card 2.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%202.JPG)
 ![card 3.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%203.JPG)
 ![card 4.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%204.JPG)
-![card 5.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%205.JPG)
-![card 6.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%206.JPG)
 
 # Wireframes
 
