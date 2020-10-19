@@ -105,15 +105,15 @@ Documentações:
 # Wireframes
 
  ## Login Ou Admin
-![card 1.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%201.JPG)
+![wireframe 1.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%201.png)
 ## Login de Administrador
-![WhatsApp Image 2020-09-26 at 9.53.31 PM](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/WhatsApp%20Image%202020-09-26%20at%209.53.31%20PM.jpeg)
+![wireframe 2.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%202.png)
 ## Login de Usuario
-![WhatsApp Image 2020-09-26 at 9.53.57 PM](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/WhatsApp%20Image%202020-09-26%20at%209.53.57%20PM.jpeg)
+![wireframe 3.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%203.png)
 ## Cadastro de Usuarios
-![WhatsApp Image 2020-09-26 at 9.56.49 PM](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/WhatsApp%20Image%202020-09-26%20at%209.56.49%20PM.jpeg)
+![wireframe 4.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%204.png)
 ## Horarios de caminhoneiros
-![horas Trabalhadas](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/horas%20Trabalhadas.jpeg)
+![wireframe 5.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%205.png)
 
 
 # Time
