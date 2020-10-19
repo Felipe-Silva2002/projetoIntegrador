@@ -98,10 +98,15 @@ Documentações:
 
 # Sprint Cards
 
-Fizemos a documentação do github e toda previsão de funcionalidade do projeto, para, com isso teremos maior gerenciamento a problemática estabelecidade pela empresa e maior clareza o futuro do projeto
+Faremos a documentação do github e toda previsão de funcionalidade do projeto, para, com isso teremos maior gerenciamento a problemática estabelecidade pela empresa e maior clareza do futuro do projeto
+
 ![card 1.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%201.JPG)
 
+Desenvolveremos UM CRUD de usuario e veículo com login de usuário já cadastrados usando o banco de dados PortgresSQL para salvar dados, assim aprofundando no desenvolvimento usando os dados já cadastrados. 
+
 ![card 2.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%202.JPG)
+
+Desenvolveremos uma criaçao de tarefas feita pelo administrado onde ele escolherá um usuário e um veículo para o local que ele desejar, a
 
 ![card 3.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%203.JPG)
 
