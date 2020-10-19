@@ -109,11 +109,11 @@ Documentações:
 ## Login de Administrador
 ![wireframe 2.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%202.png)
 ## Login de Usuario
-![wireframe 3.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%203.png)
+![wireframe 5.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%205.png)
 ## Cadastro de Usuarios
+![wireframe 3.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%203.png)
 ![wireframe 4.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%204.png)
 ## Horarios de caminhoneiros
-![wireframe 5.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%205.png)
 
 
 # Time
