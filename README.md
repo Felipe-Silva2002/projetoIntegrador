@@ -117,13 +117,13 @@ Documentações:
 
 
 # Time
-- Ana Oliveira - PO
+- Ana Paula Santos de Oliveira - PO
 - Pedro Sousa Lopes - Scrum Master
-- Bruno Freire - DEV Team
+- Bruno Alexandre Freire - DEV Team
 - Felipe Silva - DEV Team
-- Francisco - DEV Team
-- Joâo Vitor - DEV Team
-- Vitor - DEV Team
+- Francisco Noberto Cardoso Neto - DEV Team
+- João Vitor Santos do Nascimento - DEV Team
+- Vitor Yuri Santos - DEV Team
 
 # Data das entregas
 
