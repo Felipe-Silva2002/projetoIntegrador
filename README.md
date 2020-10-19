@@ -128,7 +128,10 @@ Documentações:
 
 # Data das entregas
 
-- [Branch-0](https://github.com/Felipe-Silva2002/projetoIntegrador/tree/Branch-0)  07/09/2020 até 27/09/2020
-- [Branch-1](https://github.com/Felipe-Silva2002/projetoIntegrador/tree/Branch-1)  28/09/2020 até 18/10/2020
-- [Branch-2](https://github.com/Felipe-Silva2002/projetoIntegrador/tree/Branch-2)  19/10/2020 até 08/11/2020
-- [Branch-3](https://github.com/Felipe-Silva2002/projetoIntegrador/tree/Branch-3)  09/11/2020 até 29/11/2020
+- [Branch-1](https://github.com/Felipe-Silva2002/projetoIntegrador/tree/Branch-0)  07/09/2020 até 27/09/2020
+
+- [Branch-2](https://github.com/Felipe-Silva2002/projetoIntegrador/tree/Branch-1)  28/09/2020 até 18/10/2020
+
+- [Branch-3](https://github.com/Felipe-Silva2002/projetoIntegrador/tree/Branch-2)  19/10/2020 até 08/11/2020
+
+- [Branch-4](https://github.com/Felipe-Silva2002/projetoIntegrador/tree/Branch-3)  09/11/2020 até 29/11/2020
