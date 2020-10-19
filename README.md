@@ -97,10 +97,12 @@ Documentações:
 
 # Sprint Cards
 
-![card 1.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/image--000.jpg)
+![card 1.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%201.JPG)
 ![card 2.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%202.JPG)
-![image--002.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/image--002.jpg)
-![image--003.jpg](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/image--003.jpg)
+![card 3.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%203.JPG)
+![card 4.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%204.JPG)
+![card 5.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%205.JPG)
+![card 6.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%206.JPG)
 
 # Wireframes
 
