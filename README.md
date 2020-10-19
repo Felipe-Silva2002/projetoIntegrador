@@ -110,7 +110,7 @@ Desenvolveremos uma criação de tarefas feitas pelo administrador onde ele esco
 
 ![card 3.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%203.JPG)
 
-
+O administrador terá total acesso sobre os relatórios do usuário e correção de erros e possíveis falhas no sistema.
 ![card 4.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%204.JPG)
 
 # Wireframes
