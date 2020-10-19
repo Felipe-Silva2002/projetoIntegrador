@@ -1,10 +1,11 @@
-# Projeto Integrador
-# Segunda entrega
+#Projeto Integrador - Fatec São José dos Campos
+# SPRINT 1
+Na primeira sprint, decidimos juntamente com a necessidade da empresa cliente, a aplicação do seguinte card:
 
 
 # Card
 ![card 1.JPG](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/card%201.JPG)
-
+-Execução do algoritmo
 
 [Diagrama.pdf](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/Diagrama.pdf)
 
