@@ -8,8 +8,13 @@ Na sprint foi decidido a criação do repositorio e a documentaçao do github e 
 Nessa entrega fizemos toda a documentação assim como a previsão de como ira ficar 
 
 # Wireframes
+Aqui temos o wireframes que sera como a entrega ficara ao final do projeto.
 ![wireframe 1.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%201.png)
+
 ![wireframe 2.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%202.png)
+
 ![wireframe 3.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%203.png)
+
 ![wireframe 4.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%204.png)
+
 ![wireframe 5.png](https://github.com/Felipe-Silva2002/projetoIntegrador/blob/master/wireframe%205.png)
