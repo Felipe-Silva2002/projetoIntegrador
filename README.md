@@ -140,7 +140,7 @@ O wireframe é um protótipo usado em design de interface para sugerir a estrutu
 
 - [Branch-4](https://github.com/Felipe-Silva2002/projetoIntegrador/tree/Branch-3)  09/11/2020 até 29/11/2020
 
-# Necessario para funcionamento do código
+# Necessario para o funcionamento do código
 # Criação das tabelas no PortgreSql.
 
 -- Table: public.funcionarios
